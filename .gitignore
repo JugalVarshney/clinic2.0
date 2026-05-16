@@ -1,0 +1,36 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.sqlite3
+db.sqlite3
+
+# Django / DRF
+media/
+staticfiles/
+
+# Virtual environments
+venv/
+.venv/
+
+# Node (future frontend)
+node_modules/
+build/
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
+
+# Misc
+*.tmp
+*.bak
+
